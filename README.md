@@ -44,6 +44,15 @@ The analysis results are summarized as follows:
 
 <img width="473" alt="BI2" src="https://github.com/ikuro/Aviation-Accidents/blob/main/Dashboard.PNG">
 
+- or quick view from python
+
+<img width="473" alt="BI2" src="https://github.com/ikuro/Aviation-Accidents/blob/main/Scatter1.png">
+
+<img width="473" alt="BI2" src="https://github.com/ikuro/Aviation-Accidents/blob/main/barplot2.png">
+
+<img width="473" alt="BI2" src="https://github.com/ikuro/Aviation-Accidents/blob/main/barplot3.png">
+
+<img width="473" alt="BI2" src="https://github.com/ikuro/Aviation-Accidents/blob/main/linegraph2.png">
 
 ### Recommendations
 Based on the analysis, we recommend the following actions:
