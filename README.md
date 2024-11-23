@@ -42,7 +42,7 @@ The analysis results are summarized as follows:
 [Tableau Dashboard](https://public.tableau.com/app/profile/george3771/viz/AviationData_17323494014070/Dashboard1?publish=yes/)
 
 
-<img width="473" alt="BI2" src="https://github.com/ikuro/Training-1/assets/14724683/e739713f-b496-4e1a-9378-97b5f117b4dd">
+<img width="473" alt="BI2" src="https://github.com/ikuro/Aviation-Accidents/blob/main/Dashboard.PNG">
 
 
 ### Recommendations
