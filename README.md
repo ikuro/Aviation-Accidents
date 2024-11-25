@@ -46,7 +46,7 @@ The analysis results are summarized as follows:
 
 - or quick view from python
 
-<img width="473" alt="BI2" src="https://github.com/ikuro/Aviation-Accidents/blob/main/Scatter1.png">
+<img width="473" alt="BI2" src="https://github.com/ikuro/Aviation-Accidents/blob/main/Linegraph1.png">
 
 <img width="473" alt="BI2" src="https://github.com/ikuro/Aviation-Accidents/blob/main/barplot2.png">
 
